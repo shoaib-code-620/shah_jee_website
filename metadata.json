@@ -1,0 +1,5 @@
+{
+  "name": "Shah Jee Restaurant Karachi",
+  "description": "Authentic Pakistani BBQ, Karahi, and Chinese food in Karachi. Order directly on WhatsApp and save on app commissions.",
+  "requestFramePermissions": ["geolocation"]
+}
